@@ -1,0 +1,14 @@
+// Object
+Object is a real world entity. it's a instance of an object.
+an object consist of state , behaviours,and identity.
+identity->
+// means particular things
+such as man , women , car , dog 
+example = A dog.
+identity -> dog
+state ->means attributes  breed,weight,color.
+behaviours -> braking , eating, running. 
+Deffination==>>
+State: It is represented by attributes of an object. It also reflects the properties of an object.
+Behavior: It is represented by the methods of an object. It also reflects the response of an object with other objects.
+Identity: It gives a unique name to an object and enables one object to interact with other objects.
