@@ -1,3 +1,8 @@
+/* Hierarchical Inheritance
+In Hierarchical Inheritance, one class serves as a superclass 
+(base class) for more than one subclass. In the below image,
+ class A serves as a base class for the derived classes B, C,
+  and D. */
 class A{
     public void fun1(){
         System.out.println("class A");
