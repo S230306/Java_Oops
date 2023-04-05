@@ -9,7 +9,7 @@ class Test{
         this.b = b;
     }
     public void display(){
-        System.out.print(a);
+        System.out.println(a);
         System.out.println(b);
     }
 }
