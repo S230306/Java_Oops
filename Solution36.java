@@ -6,7 +6,8 @@ class Test{
     }
 }
 class Retest extends Test{
-    void show(){
+    @Override
+    void show(){// we can invoke the overriden method by call super keyword
         super.show();
         System.out.println("Hii");
     }
